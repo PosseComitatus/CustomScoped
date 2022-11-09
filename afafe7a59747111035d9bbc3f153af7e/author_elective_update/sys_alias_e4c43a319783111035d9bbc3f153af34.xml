@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_440155_customsco.GitHub_SN_PDI</id>
+        <multiple_connections>true</multiple_connections>
+        <name>GitHub SN PDI</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-09 18:42:23</sys_created_on>
+        <sys_id>e4c43a319783111035d9bbc3f153af34</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_440155_customsco.GitHub_SN_PDI</sys_name>
+        <sys_package display_value="CustomScoped" source="x_440155_customsco">afafe7a59747111035d9bbc3f153af7e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CustomScoped">afafe7a59747111035d9bbc3f153af7e</sys_scope>
+        <sys_update_name>sys_alias_e4c43a319783111035d9bbc3f153af34</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-09 18:42:23</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CustomScoped">afafe7a59747111035d9bbc3f153af7e</application>
+        <file_path/>
+        <instance_id>015b2b0adb4a3b4842b321c4059619cc</instance_id>
+        <instance_name>dev87796</instance_name>
+        <name>sys_alias_e4c43a319783111035d9bbc3f153af34</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_440155_customsco.GitHub_SN_PDI</id><multiple_connections>true</multiple_connections><name>GitHub SN PDI</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-09 18:42:23</sys_created_on><sys_id>e4c43a319783111035d9bbc3f153af34</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_440155_customsco.GitHub_SN_PDI</sys_name><sys_package display_value="CustomScoped" source="x_440155_customsco">afafe7a59747111035d9bbc3f153af7e</sys_package><sys_policy/><sys_scope display_value="CustomScoped">afafe7a59747111035d9bbc3f153af7e</sys_scope><sys_update_name>sys_alias_e4c43a319783111035d9bbc3f153af34</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-09 18:42:23</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>-1489988677</payload_hash>
+        <record_name>x_440155_customsco.GitHub_SN_PDI</record_name>
+        <reverted_from/>
+        <source>efafe7a59747111035d9bbc3f153af80</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-09 18:42:23</sys_created_on>
+        <sys_id>e2e432b19783111035d9bbc3f153af38</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1845db34ef90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-09 18:42:23</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>2ee432b1d5831110ef6a1c673f530937</update_guid>
+        <update_guid_history>2ee432b1d5831110ef6a1c673f530937:-1489988677</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-09 19:02:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>4cab9327f7284814b05a51a893bb9744</sys_id>
+        <sys_metadata>e4c43a319783111035d9bbc3f153af34</sys_metadata>
+        <sys_name>x_440155_customsco.GitHub_SN_PDI</sys_name>
+        <sys_package display_value="CustomScoped" source="x_440155_customsco">afafe7a59747111035d9bbc3f153af7e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CustomScoped">afafe7a59747111035d9bbc3f153af7e</sys_scope>
+        <sys_scope_delete display_value="">a601dcfff44b4961ab40ae936f977239</sys_scope_delete>
+        <sys_update_name>sys_alias_e4c43a319783111035d9bbc3f153af34</sys_update_name>
+        <sys_update_version display_value="sys_alias_e4c43a319783111035d9bbc3f153af34">e2e432b19783111035d9bbc3f153af38</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

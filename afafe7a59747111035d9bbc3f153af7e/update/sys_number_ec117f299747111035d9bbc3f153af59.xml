@@ -8,13 +8,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-09 04:26:44</sys_created_on>
         <sys_id>ec117f299747111035d9bbc3f153af59</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>HEL</sys_name>
         <sys_package display_value="CustomScoped" source="x_440155_customsco">afafe7a59747111035d9bbc3f153af7e</sys_package>
         <sys_policy/>
         <sys_scope display_value="CustomScoped">afafe7a59747111035d9bbc3f153af7e</sys_scope>
         <sys_update_name>sys_number_ec117f299747111035d9bbc3f153af59</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-11-09 04:26:44</sys_updated_on>
     </sys_number>
 </record_update>
