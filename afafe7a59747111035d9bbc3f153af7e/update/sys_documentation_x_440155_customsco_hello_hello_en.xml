@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="hello" label="Hello" language="en" table="x_440155_customsco_hello">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>hello</element>
+            <help/>
+            <hint/>
+            <label>Hello</label>
+            <language>en</language>
+            <name>x_440155_customsco_hello</name>
+            <plural>Hellos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-09 04:26:44</sys_created_on>
+            <sys_id>78117f299747111035d9bbc3f153af6d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Hello</sys_name>
+            <sys_package display_value="CustomScoped" source="x_440155_customsco">afafe7a59747111035d9bbc3f153af7e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CustomScoped">afafe7a59747111035d9bbc3f153af7e</sys_scope>
+            <sys_update_name>sys_documentation_x_440155_customsco_hello_hello_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-09 04:26:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

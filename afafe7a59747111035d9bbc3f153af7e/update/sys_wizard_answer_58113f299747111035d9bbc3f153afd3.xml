@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>hello</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>hello</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Asset" name="Asset">a28d237047622100158b949b6c9a710d</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-09 04:26:42</sys_created_on>
+        <sys_id>58113f299747111035d9bbc3f153afd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>hello</sys_name>
+        <sys_package display_value="CustomScoped" source="x_440155_customsco">afafe7a59747111035d9bbc3f153af7e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CustomScoped">afafe7a59747111035d9bbc3f153af7e</sys_scope>
+        <sys_update_name>sys_wizard_answer_58113f299747111035d9bbc3f153afd3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-09 04:26:42</sys_updated_on>
+        <table/>
+        <target_url>x_440155_customsco_hello.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
