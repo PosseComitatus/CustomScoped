@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="3">f003dbfd97c3111035d9bbc3f153af7c</sp_column>
+        <sp_widget display_value="Actions Widget">38a3a159530201101865ddeeff7b1263</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-09 20:55:48</sys_created_on>
+        <sys_id>897393319707111035d9bbc3f153afc7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CustomScoped" source="x_440155_customsco">afafe7a59747111035d9bbc3f153af7e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CustomScoped">afafe7a59747111035d9bbc3f153af7e</sys_scope>
+        <sys_update_name>sp_instance_897393319707111035d9bbc3f153afc7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-09 20:55:48</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=897393319707111035d9bbc3f153afc7"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CustomScoped">afafe7a59747111035d9bbc3f153af7e</application>
+        <file_path/>
+        <instance_id>015b2b0adb4a3b4842b321c4059619cc</instance_id>
+        <instance_name>dev87796</instance_name>
+        <name>sp_instance_897393319707111035d9bbc3f153afc7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="3">f003dbfd97c3111035d9bbc3f153af7c</sp_column><sp_widget display_value="Actions Widget">38a3a159530201101865ddeeff7b1263</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-09 20:55:48</sys_created_on><sys_id>897393319707111035d9bbc3f153afc7</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="CustomScoped" source="x_440155_customsco">afafe7a59747111035d9bbc3f153af7e</sys_package><sys_policy/><sys_scope display_value="CustomScoped">afafe7a59747111035d9bbc3f153af7e</sys_scope><sys_update_name>sp_instance_897393319707111035d9bbc3f153afc7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-09 20:55:48</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=897393319707111035d9bbc3f153afc7"/></record_update>]]></payload>
+        <payload_hash>-23959315</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>478c033997c3111035d9bbc3f153afa0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-09 20:55:48</sys_created_on>
+        <sys_id>497393319707111035d9bbc3f153afc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1845e2d771d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-09 20:55:48</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>81739331250711107ea581f173e0c3c9</update_guid>
+        <update_guid_history>81739331250711107ea581f173e0c3c9:-23959315</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">0610cd42978b111035d9bbc3f153af82</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-10 04:50:28</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>3190ad23fb354dd78cd0b75a634214f1</sys_id>
+        <sys_metadata>897393319707111035d9bbc3f153afc7</sys_metadata>
+        <sys_name/>
+        <sys_package display_value="CustomScoped" source="x_440155_customsco">afafe7a59747111035d9bbc3f153af7e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CustomScoped">afafe7a59747111035d9bbc3f153af7e</sys_scope>
+        <sys_scope_delete display_value="">a601dcfff44b4961ab40ae936f977239</sys_scope_delete>
+        <sys_update_name>sp_instance_897393319707111035d9bbc3f153afc7</sys_update_name>
+        <sys_update_version display_value="sp_instance_897393319707111035d9bbc3f153afc7">497393319707111035d9bbc3f153afc9</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

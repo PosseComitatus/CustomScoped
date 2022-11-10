@@ -8,7 +8,7 @@
         <container_class_name/>
         <name>cx1_Home - Container 2</name>
         <order>2</order>
-        <sp_page display_value="cd_portalpage01">62e197bd97c3111035d9bbc3f153af09</sp_page>
+        <sp_page display_value="cx1_home">62e197bd97c3111035d9bbc3f153af09</sp_page>
         <subheader>false</subheader>
         <sys_class_name>sp_container</sys_class_name>
         <sys_created_by>admin</sys_created_by>

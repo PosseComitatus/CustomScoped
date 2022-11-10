@@ -4,18 +4,18 @@
         <css/>
         <draft>false</draft>
         <dynamic_title_structure/>
-        <id>cd_portalpage01</id>
+        <id>cx1_home</id>
         <internal>false</internal>
         <omit_watcher>false</omit_watcher>
         <public>false</public>
         <roles/>
         <seo_script/>
-        <short_description>test portal pg for Agent chat in customscoped app</short_description>
+        <short_description>cx1_Home</short_description>
         <sys_class_name>sp_page</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-09 20:49:05</sys_created_on>
         <sys_id>62e197bd97c3111035d9bbc3f153af09</sys_id>
-        <sys_name>cd_portalpage01</sys_name>
+        <sys_name>cx1_home</sys_name>
         <sys_package display_value="CustomScoped" source="x_440155_customsco">afafe7a59747111035d9bbc3f153af7e</sys_package>
         <sys_policy/>
         <sys_scope display_value="CustomScoped">afafe7a59747111035d9bbc3f153af7e</sys_scope>

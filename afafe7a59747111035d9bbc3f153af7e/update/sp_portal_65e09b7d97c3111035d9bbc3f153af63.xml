@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
     <sp_portal action="INSERT_OR_UPDATE">
-        <css_variables/>
+        <css_variables>$brand-primary:#1F8476;
+$body-bg:#fdded9;
+$state-success-text:#1e4335;
+$sp-homepage-bg:#fff;
+$sp-navbar-divider-color:#f9fbe7;
+$text-color:#2e2e2e;
+$sp-logo-margin-y:.5rem;
+$navbar-inverse-link-hover-color:#ffffff;
+$panel-bg:#fff;
+$brand-success:#48C891;
+$navbar-inverse-bg:#ff93a2;
+$brand-warning:#DFD139;
+$brand-danger:#C83C36;
+$sp-tagline-color:#ffffff;
+$navbar-inverse-link-color:#160dd6;
+$brand-info:#6ABECF;
+$link-color:#1F8476;
+$sp-logo-margin-x:1.5rem;
+$btn-default-bg:#fff;
+$text-muted:#666666;
+</css_variables>
         <default>false</default>
         <enable_ais>false</enable_ais>
         <enable_favorites>false</enable_favorites>
         <hide_portal_name>false</hide_portal_name>
-        <homepage display_value="cd_portalpage01">62e197bd97c3111035d9bbc3f153af09</homepage>
+        <homepage display_value="cx1_home">62e197bd97c3111035d9bbc3f153af09</homepage>
         <icon>662e6cce970b111035d9bbc3f153aff4</icon>
         <kb_knowledge_base/>
         <kb_knowledge_page/>
@@ -29,7 +49,7 @@
         <sys_policy/>
         <sys_scope display_value="CustomScoped">afafe7a59747111035d9bbc3f153af7e</sys_scope>
         <sys_update_name>sp_portal_65e09b7d97c3111035d9bbc3f153af63</sys_update_name>
-        <theme/>
+        <theme display_value="cx1_theme">592e7c02978b111035d9bbc3f153af4e</theme>
         <title>cx_Scoped1</title>
         <ts_index_group/>
         <url_suffix>cx1</url_suffix>

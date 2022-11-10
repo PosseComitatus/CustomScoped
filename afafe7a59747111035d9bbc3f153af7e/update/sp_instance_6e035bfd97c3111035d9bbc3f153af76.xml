@@ -23,7 +23,16 @@
         <sys_update_name>sp_instance_6e035bfd97c3111035d9bbc3f153af76</sys_update_name>
         <title/>
         <url/>
-        <widget_parameters/>
+        <widget_parameters><![CDATA[{
+	"portal": {
+		"value": "",
+		"displayValue": ""
+	},
+	"max_number_of_elements_shown_on_the_list": {
+		"value": null,
+		"displayValue": ""
+	}
+}]]></widget_parameters>
     </sp_instance>
     <sys_translated_text action="delete_multiple" query="documentkey=6e035bfd97c3111035d9bbc3f153af76"/>
 </record_update>
