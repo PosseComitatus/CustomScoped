@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="58113f299747111035d9bbc3f153afd1" extends="alm_asset" label="hello" max_length="40" name="x_440155_customsco_hello" type="collection">
-        <element display="true" label="Hello" max_length="40" name="hello" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Hello" max_length="40" name="hello" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
     </element>
 </database>
