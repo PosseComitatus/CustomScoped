@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="3">f003dbfd97c3111035d9bbc3f153af7c</sp_column>
+        <sp_widget display_value="Virtual Agent Service Portal Widget">20c6031e733013004ab2369f2ef6a7c7</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-10 05:18:46</sys_created_on>
+        <sys_id>7c96490697cb111035d9bbc3f153af5a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CustomScoped" source="x_440155_customsco">afafe7a59747111035d9bbc3f153af7e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CustomScoped">afafe7a59747111035d9bbc3f153af7e</sys_scope>
+        <sys_update_name>sp_instance_7c96490697cb111035d9bbc3f153af5a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-10 05:19:22</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"button_color": {
+		"value": "#4f46e5",
+		"displayValue": "#4f46e5"
+	},
+	"va_url_params": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=7c96490697cb111035d9bbc3f153af5a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CustomScoped">afafe7a59747111035d9bbc3f153af7e</application>
+        <file_path/>
+        <instance_id>015b2b0adb4a3b4842b321c4059619cc</instance_id>
+        <instance_name>dev87796</instance_name>
+        <name>sp_instance_7c96490697cb111035d9bbc3f153af5a</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="3"&gt;f003dbfd97c3111035d9bbc3f153af7c&lt;/sp_column&gt;&lt;sp_widget display_value="Virtual Agent Service Portal Widget"&gt;20c6031e733013004ab2369f2ef6a7c7&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-11-10 05:18:46&lt;/sys_created_on&gt;&lt;sys_id&gt;7c96490697cb111035d9bbc3f153af5a&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="CustomScoped" source="x_440155_customsco"&gt;afafe7a59747111035d9bbc3f153af7e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="CustomScoped"&gt;afafe7a59747111035d9bbc3f153af7e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_7c96490697cb111035d9bbc3f153af5a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-11-10 05:19:22&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"button_color": {
+		"value": "#4f46e5",
+		"displayValue": "#4f46e5"
+	},
+	"va_url_params": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=7c96490697cb111035d9bbc3f153af5a"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>9777019</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>478c033997c3111035d9bbc3f153afa0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-10 05:19:22</sys_created_on>
+        <sys_id>6db6094697cb111035d9bbc3f153af4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1845ffa7f000000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-10 05:19:22</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>e1b6094656cb1110ce8665c46c6a114c</update_guid>
+        <update_guid_history>e1b6094656cb1110ce8665c46c6a114c:9777019,7896490647cb11103c134b66acf9165d:-2021543500</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">aab8e1c6978f111035d9bbc3f153affd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-10 07:47:59</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>0d6a401187614f7081a3fdcd459244a4</sys_id>
+        <sys_metadata>7c96490697cb111035d9bbc3f153af5a</sys_metadata>
+        <sys_name/>
+        <sys_package display_value="CustomScoped" source="x_440155_customsco">afafe7a59747111035d9bbc3f153af7e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CustomScoped">afafe7a59747111035d9bbc3f153af7e</sys_scope>
+        <sys_scope_delete display_value="">a601dcfff44b4961ab40ae936f977239</sys_scope_delete>
+        <sys_update_name>sp_instance_7c96490697cb111035d9bbc3f153af5a</sys_update_name>
+        <sys_update_version display_value="sp_instance_7c96490697cb111035d9bbc3f153af5a">6db6094697cb111035d9bbc3f153af4c</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

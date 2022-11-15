@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cs_branding_setup">
+    <sys_cs_branding_setup action="INSERT_OR_UPDATE">
+        <agent_bubble_bg_color>#E9EDF1</agent_bubble_bg_color>
+        <agent_bubble_font_color>#343D47</agent_bubble_font_color>
+        <bg_color>#ffffff</bg_color>
+        <bot_bubble_bg_color>#E9EDF1</bot_bubble_bg_color>
+        <bot_bubble_font_color>#343D47</bot_bubble_font_color>
+        <branding_key>gblva_branding</branding_key>
+        <branding_name>gblVA Branding</branding_name>
+        <bubble_bg_color>#406770</bubble_bg_color>
+        <bubble_font_color>#ffffff</bubble_font_color>
+        <button_bg_color>#ffffff</button_bg_color>
+        <category_bg_color>#efeff4</category_bg_color>
+        <category_font_color>#6d6d72</category_font_color>
+        <disabled_link_color>#666666</disabled_link_color>
+        <header_bg_color>#339900</header_bg_color>
+        <header_font_color>#ffffff</header_font_color>
+        <header_label>gblVA Header</header_label>
+        <input_bg_color>#fafafa</input_bg_color>
+        <link_color>#406770</link_color>
+        <load_animation_color>#293e40</load_animation_color>
+        <menu_icon_color>#ffffff</menu_icon_color>
+        <menu_title>gblVA Contact Support</menu_title>
+        <msg_delay>500</msg_delay>
+        <notification_bg>#efeff4</notification_bg>
+        <notification_txt>#0F78C4</notification_txt>
+        <seperator_color>#B8B8B8</seperator_color>
+        <sys_class_name>sys_cs_branding_setup</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-10 06:10:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>8c22198e970f111035d9bbc3f153afe9</sys_id>
+        <sys_name>gblVA Branding</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CustomScoped" source="x_440155_customsco">afafe7a59747111035d9bbc3f153af7e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CustomScoped">afafe7a59747111035d9bbc3f153af7e</sys_scope>
+        <sys_update_name>sys_cs_branding_setup_8c22198e970f111035d9bbc3f153afe9</sys_update_name>
+        <system_message_color>#666666</system_message_color>
+        <timestamp_color>#767676</timestamp_color>
+        <type_presence_delay>1000</type_presence_delay>
+        <va_logo>90835d4a970f111035d9bbc3f153afab</va_logo>
+        <va_profile/>
+    </sys_cs_branding_setup>
+</record_update>

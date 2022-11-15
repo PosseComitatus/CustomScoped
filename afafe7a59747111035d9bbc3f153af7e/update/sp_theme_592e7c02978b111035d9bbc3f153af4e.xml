@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sp_theme">
     <sp_theme action="INSERT_OR_UPDATE">
-        <css_variables/>
+        <css_variables>$sp-agent-chat-bg: #ff0000&#13;
+&#13;
+</css_variables>
         <footer display_value="Sample Footer">feb4f763df121200ba13a4836bf26320</footer>
         <footer_fixed>true</footer_fixed>
         <header display_value="HRMadrid Header">a8d107b473131300c629e1e54cf6a703</header>
